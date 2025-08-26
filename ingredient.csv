@@ -1,0 +1,101 @@
+ing_id,ing_name,ing_weight,ing_meas,ing_price
+ING001,Ham,104,ml,0.94
+ING002,Buffalo Sauce,93,ml,1.8
+ING003,Onion,70,g,1.08
+ING004,Onion,162,g,0.21
+ING005,Mozzarella,135,g,1.12
+ING006,Ham,44,ml,0.16
+ING007,Tomato Sauce,98,ml,1.17
+ING008,Chicken,186,ml,0.25
+ING009,Bacon,87,g,0.7
+ING010,Olives,105,ml,0.58
+ING011,Pineapple,31,ml,2.4
+ING012,Mushroom,147,g,2.21
+ING013,Parmesan,42,g,2.2
+ING014,Ham,24,ml,1.91
+ING015,BBQ Sauce,161,g,1.47
+ING016,Onion,89,g,1.29
+ING017,Pepperoni,93,ml,1.16
+ING018,Pepperoni,177,g,1.22
+ING019,Mushroom,36,g,0.65
+ING020,Mozzarella,112,ml,1.67
+ING021,Tomato Sauce,167,g,0.49
+ING022,Pineapple,67,ml,1.83
+ING023,Ham,113,ml,2.47
+ING024,Ham,161,ml,2.23
+ING025,Olives,66,ml,1.68
+ING026,Ham,120,ml,2.21
+ING027,Bacon,126,g,1.44
+ING028,BBQ Sauce,76,g,1.68
+ING029,Mushroom,15,ml,1.53
+ING030,Pepperoni,63,g,1.52
+ING031,Buffalo Sauce,57,g,0.11
+ING032,Mozzarella,111,g,1.09
+ING033,Olives,102,ml,0.33
+ING034,Mozzarella,81,ml,0.54
+ING035,Tomato Sauce,22,ml,1.95
+ING036,Onion,169,g,0.49
+ING037,Bell Pepper,139,g,0.86
+ING038,Buffalo Sauce,20,g,1.05
+ING039,Ham,197,g,2.08
+ING040,Tomato Sauce,94,ml,0.53
+ING041,Mozzarella,56,ml,0.41
+ING042,Pepperoni,59,ml,2.23
+ING043,Mushroom,188,ml,1.55
+ING044,Onion,107,g,1.72
+ING045,Ham,51,ml,1.61
+ING046,BBQ Sauce,150,g,1.77
+ING047,Chicken,181,ml,0.32
+ING048,Chicken,166,ml,2.33
+ING049,Onion,154,ml,2.1
+ING050,Pepperoni,108,g,1.95
+ING051,Mushroom,199,ml,2.25
+ING052,Pineapple,51,g,2.27
+ING053,Chicken,147,g,1.9
+ING054,Onion,62,g,2.3
+ING055,Bacon,165,g,1.22
+ING056,Onion,25,ml,1.67
+ING057,Chicken,195,ml,0.25
+ING058,Ham,14,ml,1.7
+ING059,Parmesan,96,ml,1.31
+ING060,Olives,172,g,1.41
+ING061,Olives,180,g,1.8
+ING062,Chicken,199,ml,0.2
+ING063,Tomato Sauce,48,ml,1.51
+ING064,Mozzarella,106,ml,1.16
+ING065,Parmesan,86,g,1.46
+ING066,Mozzarella,149,g,1.72
+ING067,Olives,146,g,1.32
+ING068,Pepperoni,191,g,2.29
+ING069,Onion,138,g,0.18
+ING070,Tomato Sauce,17,ml,2.27
+ING071,Onion,157,ml,1.61
+ING072,Mozzarella,184,g,2.29
+ING073,Tomato Sauce,185,g,2.29
+ING074,Bacon,150,ml,0.98
+ING075,Mozzarella,145,ml,0.41
+ING076,Buffalo Sauce,48,g,0.73
+ING077,Bacon,91,ml,1.54
+ING078,Chicken,99,ml,0.55
+ING079,Bacon,23,ml,0.58
+ING080,Buffalo Sauce,156,ml,0.4
+ING081,Bell Pepper,26,ml,0.79
+ING082,BBQ Sauce,151,ml,0.1
+ING083,Pineapple,81,ml,0.37
+ING084,BBQ Sauce,99,ml,0.72
+ING085,Mushroom,69,ml,1.42
+ING086,Pepperoni,160,g,1.14
+ING087,Tomato Sauce,188,g,2.17
+ING088,Olives,121,g,0.69
+ING089,Bacon,10,ml,0.79
+ING090,Ham,95,g,1.22
+ING091,Pineapple,80,g,2.41
+ING092,Pineapple,60,g,0.72
+ING093,Bacon,154,g,1.13
+ING094,Pineapple,85,ml,0.93
+ING095,Onion,182,g,0.15
+ING096,Onion,181,ml,0.54
+ING097,Buffalo Sauce,59,g,0.96
+ING098,Parmesan,44,g,1.09
+ING099,Onion,105,ml,1.82
+ING100,Ham,77,g,0.79

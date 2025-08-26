@@ -1,0 +1,101 @@
+item_id,sku,item_name,item_cat,item_size,item_price
+PZ001,PZ001,Meat Lover Pizza,Meat Lover,Medium,12.25
+PZ002,PZ002,Meat Lover Pizza,Meat Lover,Medium,9.73
+PZ003,PZ003,Pepperoni Pizza,Pepperoni,Large,13.44
+PZ004,PZ004,Buffalo Chicken Pizza,Buffalo Chicken,Small,19.18
+PZ005,PZ005,Pepperoni Pizza,Pepperoni,Large,17.34
+PZ006,PZ006,Meat Lover Pizza,Meat Lover,Large,17.86
+PZ007,PZ007,Margherita Pizza,Margherita,Medium,16.28
+PZ008,PZ008,Meat Lover Pizza,Meat Lover,Medium,14.45
+PZ009,PZ009,Pepperoni Pizza,Pepperoni,Large,20.36
+PZ010,PZ010,Pepperoni Pizza,Pepperoni,Medium,13.9
+PZ011,PZ011,Margherita Pizza,Margherita,Medium,8.5
+PZ012,PZ012,Four Cheese Pizza,Four Cheese,Large,15.37
+PZ013,PZ013,Supreme Pizza,Supreme,Small,8.99
+PZ014,PZ014,Veggie Pizza,Veggie,Large,16.3
+PZ015,PZ015,BBQ Chicken Pizza,BBQ Chicken,Large,8.83
+PZ016,PZ016,Four Cheese Pizza,Four Cheese,Medium,13.05
+PZ017,PZ017,Margherita Pizza,Margherita,Medium,21.58
+PZ018,PZ018,Pepperoni Pizza,Pepperoni,Medium,19.04
+PZ019,PZ019,Cheese Pizza,Cheese,Large,9.96
+PZ020,PZ020,Veggie Pizza,Veggie,Large,19.76
+PZ021,PZ021,Hawaiian Pizza,Hawaiian,Small,13.06
+PZ022,PZ022,Margherita Pizza,Margherita,Large,15.77
+PZ023,PZ023,Supreme Pizza,Supreme,Small,20.21
+PZ024,PZ024,Four Cheese Pizza,Four Cheese,Large,8.77
+PZ025,PZ025,Supreme Pizza,Supreme,Medium,17.32
+PZ026,PZ026,BBQ Chicken Pizza,BBQ Chicken,Small,14.66
+PZ027,PZ027,Pepperoni Pizza,Pepperoni,Small,18.24
+PZ028,PZ028,Supreme Pizza,Supreme,Small,8.53
+PZ029,PZ029,Veggie Pizza,Veggie,Small,17.58
+PZ030,PZ030,Cheese Pizza,Cheese,Large,17.9
+PZ031,PZ031,Margherita Pizza,Margherita,Small,10.66
+PZ032,PZ032,Margherita Pizza,Margherita,Small,13.62
+PZ033,PZ033,Four Cheese Pizza,Four Cheese,Small,13.67
+PZ034,PZ034,Supreme Pizza,Supreme,Medium,11.76
+PZ035,PZ035,Buffalo Chicken Pizza,Buffalo Chicken,Large,17.06
+PZ036,PZ036,BBQ Chicken Pizza,BBQ Chicken,Medium,9.26
+PZ037,PZ037,Hawaiian Pizza,Hawaiian,Medium,20.93
+PZ038,PZ038,Cheese Pizza,Cheese,Small,15.13
+PZ039,PZ039,Four Cheese Pizza,Four Cheese,Large,8.14
+PZ040,PZ040,Hawaiian Pizza,Hawaiian,Medium,9.94
+PZ041,PZ041,Four Cheese Pizza,Four Cheese,Medium,9.79
+PZ042,PZ042,Margherita Pizza,Margherita,Small,17.5
+PZ043,PZ043,Four Cheese Pizza,Four Cheese,Small,14.83
+PZ044,PZ044,Margherita Pizza,Margherita,Medium,17.37
+PZ045,PZ045,Buffalo Chicken Pizza,Buffalo Chicken,Small,9.54
+PZ046,PZ046,Veggie Pizza,Veggie,Medium,16.39
+PZ047,PZ047,Cheese Pizza,Cheese,Large,18.05
+PZ048,PZ048,Buffalo Chicken Pizza,Buffalo Chicken,Medium,20.48
+PZ049,PZ049,Meat Lover Pizza,Meat Lover,Medium,14.9
+PZ050,PZ050,Cheese Pizza,Cheese,Small,19.11
+PZ051,PZ051,Cheese Pizza,Cheese,Large,9.27
+PZ052,PZ052,Supreme Pizza,Supreme,Small,13.13
+PZ053,PZ053,Hawaiian Pizza,Hawaiian,Medium,8.83
+PZ054,PZ054,Supreme Pizza,Supreme,Small,22
+PZ055,PZ055,BBQ Chicken Pizza,BBQ Chicken,Large,16.44
+PZ056,PZ056,Veggie Pizza,Veggie,Large,8.92
+PZ057,PZ057,Supreme Pizza,Supreme,Medium,21.96
+PZ058,PZ058,BBQ Chicken Pizza,BBQ Chicken,Medium,21.9
+PZ059,PZ059,Margherita Pizza,Margherita,Large,13.87
+PZ060,PZ060,Four Cheese Pizza,Four Cheese,Small,19.51
+PZ061,PZ061,Pepperoni Pizza,Pepperoni,Medium,9.34
+PZ062,PZ062,Hawaiian Pizza,Hawaiian,Small,16.89
+PZ063,PZ063,BBQ Chicken Pizza,BBQ Chicken,Small,19.42
+PZ064,PZ064,Meat Lover Pizza,Meat Lover,Small,20.37
+PZ065,PZ065,Cheese Pizza,Cheese,Medium,19.04
+PZ066,PZ066,Margherita Pizza,Margherita,Large,21.67
+PZ067,PZ067,Pepperoni Pizza,Pepperoni,Medium,12.15
+PZ068,PZ068,Hawaiian Pizza,Hawaiian,Medium,10.49
+PZ069,PZ069,Hawaiian Pizza,Hawaiian,Medium,12.32
+PZ070,PZ070,Supreme Pizza,Supreme,Small,11
+PZ071,PZ071,Supreme Pizza,Supreme,Small,8.67
+PZ072,PZ072,Pepperoni Pizza,Pepperoni,Small,21.07
+PZ073,PZ073,Buffalo Chicken Pizza,Buffalo Chicken,Small,9.84
+PZ074,PZ074,Buffalo Chicken Pizza,Buffalo Chicken,Small,8.12
+PZ075,PZ075,Cheese Pizza,Cheese,Small,21.05
+PZ076,PZ076,Veggie Pizza,Veggie,Medium,9.63
+PZ077,PZ077,Cheese Pizza,Cheese,Small,12.29
+PZ078,PZ078,Meat Lover Pizza,Meat Lover,Large,9.44
+PZ079,PZ079,Hawaiian Pizza,Hawaiian,Large,14.04
+PZ080,PZ080,Meat Lover Pizza,Meat Lover,Large,18.66
+PZ081,PZ081,Meat Lover Pizza,Meat Lover,Small,16.34
+PZ082,PZ082,BBQ Chicken Pizza,BBQ Chicken,Large,12.7
+PZ083,PZ083,Pepperoni Pizza,Pepperoni,Medium,12.02
+PZ084,PZ084,BBQ Chicken Pizza,BBQ Chicken,Medium,18.09
+PZ085,PZ085,Buffalo Chicken Pizza,Buffalo Chicken,Medium,12.2
+PZ086,PZ086,Four Cheese Pizza,Four Cheese,Medium,12.85
+PZ087,PZ087,Four Cheese Pizza,Four Cheese,Small,21.88
+PZ088,PZ088,Hawaiian Pizza,Hawaiian,Small,13.12
+PZ089,PZ089,Pepperoni Pizza,Pepperoni,Small,14.96
+PZ090,PZ090,Cheese Pizza,Cheese,Medium,17.53
+PZ091,PZ091,BBQ Chicken Pizza,BBQ Chicken,Medium,16.31
+PZ092,PZ092,Hawaiian Pizza,Hawaiian,Small,14.52
+PZ093,PZ093,Meat Lover Pizza,Meat Lover,Medium,16.49
+PZ094,PZ094,BBQ Chicken Pizza,BBQ Chicken,Medium,18.43
+PZ095,PZ095,BBQ Chicken Pizza,BBQ Chicken,Large,8.6
+PZ096,PZ096,Pepperoni Pizza,Pepperoni,Small,14.58
+PZ097,PZ097,Hawaiian Pizza,Hawaiian,Medium,15.55
+PZ098,PZ098,BBQ Chicken Pizza,BBQ Chicken,Large,13.55
+PZ099,PZ099,Meat Lover Pizza,Meat Lover,Small,21.01
+PZ100,PZ100,Pepperoni Pizza,Pepperoni,Large,9.27
